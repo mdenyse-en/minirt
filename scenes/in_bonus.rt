@@ -1,0 +1,48 @@
+#A     0.2   255,255,255
+L 200.0,500.00,200.0 0.4 220,250,250  
+L 100.0,100.00,200.0 0.4 0,255,0
+L 10.0,10.00,400.0 0.4 0,0,255
+L 150.0,-300.00,280.0 0.4 255,0,0 
+
+pl -110.0,-50.0,-20.0 0,1,1     ./textures/Rocks/Rocks_Color.xpm 299,123,111 ./textures/Rocks/Rocks_NormalDXmin.xpm 
+#/texturs/Leather/Leather_Color.xpm 299,123,111 ./txtures/Leather/Leather_NormalDXmin.xpm
+#pl 0.0,-40.0,40.0 0.0,5.0,3.0    0,100,225
+#pl -50.0,-50.0,-50.0 0,1,0   150,26,250
+
+#cy 10.0,-80.0,10 0.0,1.0,0.0 60 100 255,0,0
+
+cy 20.0,-10,00 1.0,1.0,0.0 10 120 258,0,255
+
+#sp 0,0,60 300 10,255,10
+#sp 40,80,60 400 10,255,10
+
+sp 50,0,0 5 0,200,255
+sp 0,50,0 5 0,0,255
+sp 0,0,50 5 0,0,255
+
+sp -50,0,-50 20 255,255,255
+sp 0,-50,-50 20 255,255,255
+sp 50,-50,0 20 255,255,255
+
+sp 0,0,0 40 ./textures/Bricks/Brickwall.xpm ./textures/Bricks/Brickwall_normal.xpm
+#sp 0,0,5 3 200,200,200
+#sp 0,5,0 3 200,250,0
+#sp 5,0,0 3 250,200,0
+#cy 0.0,0.0,0 0.0,1.0,0.0 10 50 12,255,4 ./textures/Bricks/Brickwall.xpm ./textures/Bricks/Brickwall_normal.xpm
+cy 0.0,0.0,0 0.0,1.0,0.0 2 30  255,20,20
+#255,0,0 ./textures/Bricks/Brickwall.xpm ./textures/Bricks/Brickwall_normal.xpm
+cy 0.0,0.0,0 0.0,0.0,1.0 2 5
+#0,0,255 ./textures/Bricks/Brickwall.xpm ./textures/Bricks/Brickwall_normal.xpm
+
+co 0.0,0.0,0 0.0,0.0,-1.0 15 50 233,45,23 ./textures/Bricks/Brickwall.xpm ./textures/Bricks/Brickwall_normal.xpm
+
+co 0.0,20.0,0 0.0,-1.0,0.0 10 20 ./textures/Bricks/Brickwall.xpm ./textures/Bricks/Brickwall_normal.xpm
+
+#sp -50,0,0 5 255,255,0
+#sp 0,-50,0 5 255,100,0
+#sp 0,0,50 5 255,0,0
+
+sp 0,0,0 10 10,200,255
+
+C -10,0,240 0,0,-1 70
+#sp 10,10,1 350 255,0,15
